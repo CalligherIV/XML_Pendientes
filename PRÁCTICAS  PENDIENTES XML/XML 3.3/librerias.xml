@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros_tematica tema="XML">
+  <libreria nombre="Amazon">
+    <libro>
+      <isbn>9780134687476</isbn>
+      <titulo>Learning XML</titulo>
+      <nivel>Intermedio</nivel>
+      <autores>Erik T. Ray</autores>
+      <editorial>O'Reilly Media</editorial>
+      <fecha_publicacion>2018-01-25</fecha_publicacion>
+      <precio>35.99</precio>
+    </libro>
+    <libro>
+      <isbn>9780596004200</isbn>
+      <titulo>XML in a Nutshell</titulo>
+      <nivel>Avanzado</nivel>
+      <autores>Elliotte Rusty Harold, W. Scott Means</autores>
+      <editorial>O'Reilly Media</editorial>
+      <fecha_publicacion>2004-09-23</fecha_publicacion>
+      <precio>44.50</precio>
+    </libro>
+    <libro>
+      <isbn>9781118007480</isbn>
+      <titulo>Beginning XML</titulo>
+      <nivel>Básico</nivel>
+      <autores>Joe Fawcett, Danny Ayers</autores>
+      <editorial>Wrox</editorial>
+      <fecha_publicacion>2012-06-12</fecha_publicacion>
+      <precio>39.99</precio>
+    </libro>
+  </libreria>
+
+  <libreria nombre="La Casa del Libro">
+    <libro>
+      <isbn>9788441539651</isbn>
+      <titulo>XML y Java</titulo>
+      <nivel>Intermedio</nivel>
+      <autores>Brett McLaughlin</autores>
+      <editorial>ANAYA Multimedia</editorial>
+      <fecha_publicacion>2019-03-10</fecha_publicacion>
+      <precio>41.20</precio>
+    </libro>
+    <libro>
+      <isbn>9788441523193</isbn>
+      <titulo>XML Profesional</titulo>
+      <nivel>Avanzado</nivel>
+      <autores>Mark Johnson</autores>
+      <editorial>Paraninfo</editorial>
+      <fecha_publicacion>2020-10-01</fecha_publicacion>
+      <precio>48.75</precio>
+    </libro>
+    <libro>
+      <isbn>9788478979089</isbn>
+      <titulo>Introducción a XML</titulo>
+      <nivel>Básico</nivel>
+      <autores>Lucía Ramos</autores>
+      <editorial>Alfaomega</editorial>
+      <fecha_publicacion>2016-04-15</fecha_publicacion>
+      <precio>27.95</precio>
+    </libro>
+  </libreria>
+</libros_tematica>

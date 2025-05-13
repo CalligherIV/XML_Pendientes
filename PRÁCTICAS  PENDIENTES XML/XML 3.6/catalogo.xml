@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalogo.xsd">
+
+  <producto id="101">
+    <nombre>Auriculares Bluetooth</nombre>
+    <precio>59.99</precio>
+    <disponible>true</disponible>
+    <categoria>Electrónica</categoria>
+    <descripcion>Cancelación de ruido, batería 20h</descripcion>
+  </producto>
+
+  <producto id="102">
+    <nombre>Camiseta Algodón</nombre>
+    <precio>19.95</precio>
+    <disponible>false</disponible>
+    <categoria>Ropa</categoria>
+  </producto>
+
+  <producto id="103">
+    <nombre>Lámpara LED</nombre>
+    <precio>35.50</precio>
+    <disponible>true</disponible>
+    <categoria>Hogar</categoria>
+    <descripcion>Luz cálida, ajustable con mando</descripcion>
+  </producto>
+
+</catalogo>

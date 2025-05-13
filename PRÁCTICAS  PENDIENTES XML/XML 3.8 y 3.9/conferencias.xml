@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<centroConferencias xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="conferencias.xsd">
+  <salas>
+    <sala>
+      <id>SALA001</id>
+      <nombre>Sala Picasso</nombre>
+      <capacidad>100</capacidad>
+      <ubicacion>Planta 1</ubicacion>
+    </sala>
+    <sala>
+      <id>SALA002</id>
+      <nombre>Sala Velázquez</nombre>
+      <capacidad>60</capacidad>
+      <ubicacion>Planta 2</ubicacion>
+    </sala>
+  </salas>
+  <reservas>
+    <reserva>
+      <id>RES001</id>
+      <salaId>SALA001</salaId>
+      <cliente>Ana Torres</cliente>
+      <fechaInicio>2025-06-01</fechaInicio>
+      <fechaFin>2025-06-01</fechaFin>
+      <asistentes>75</asistentes>
+      <proyector>true</proyector>
+      <comentarios>Presentación de producto</comentarios>
+    </reserva>
+    <reserva>
+      <id>RES002</id>
+      <salaId>SALA002</salaId>
+      <cliente>Javier López</cliente>
+      <fechaInicio>2025-06-02</fechaInicio>
+      <fechaFin>2025-06-02</fechaFin>
+      <asistentes>40</asistentes>
+      <proyector>false</proyector>
+    </reserva>
+  </reservas>
+</centroConferencias>

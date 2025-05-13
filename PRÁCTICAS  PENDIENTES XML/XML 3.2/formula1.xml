@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formula1>
+  <coche velocidad="&gt;300">
+    <marca>Ferrari</marca>
+    <marchas>8</marchas>
+  </coche>
+</formula1>

@@ -1,0 +1,11 @@
+--Obtener los países que tienen un arancel del 25%
+
+/aranceles/pais[arancel/valor=25]/nombre
+
+--Obtener el tipo de arancel de México
+
+/aranceles/pais[nombre='México']/arancel/tipo
+
+--Obtener todos los valores de aranceles mayores al 10%
+
+/aranceles/pais/arancel[valor>10]/valor

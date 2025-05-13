@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albumes>
+  <album titulo="A Hard Day's Night" artista="The Beatles">
+    <cancion numero="1">
+      <titulo>A Hard Day's Night</titulo>
+      <duracion>2:34</duracion>
+    </cancion>
+    <cancion numero="2">
+      <titulo>I Should Have Known Better</titulo>
+      <duracion>2:44</duracion>
+    </cancion>
+    <cancion numero="3">
+      <titulo>If I Fell</titulo>
+      <duracion>2:19</duracion>
+    </cancion>
+  </album>
+
+  <album titulo="Abbey Road" artista="The Beatles">
+    <cancion numero="1">
+      <titulo>Come Together</titulo>
+      <duracion>4:20</duracion>
+    </cancion>
+    <cancion numero="2">
+      <titulo>Something</titulo>
+      <duracion>3:03</duracion>
+    </cancion>
+    <cancion numero="3">
+      <titulo>Maxwell's Silver Hammer</titulo>
+      <duracion>3:27</duracion>
+    </cancion>
+  </album>
+
+  <album titulo="Flowers" artista="The Rolling Stones">
+    <cancion numero="1">
+      <titulo>Ruby Tuesday</titulo>
+      <duracion>3:17</duracion>
+    </cancion>
+    <cancion numero="2">
+      <titulo>Have You Seen Your Mother, Baby, Standing in the Shadow?</titulo>
+      <duracion>2:33</duracion>
+    </cancion>
+    <cancion numero="3">
+      <titulo>Let's Spend the Night Together</titulo>
+      <duracion>3:37</duracion>
+    </cancion>
+  </album>
+</albumes>

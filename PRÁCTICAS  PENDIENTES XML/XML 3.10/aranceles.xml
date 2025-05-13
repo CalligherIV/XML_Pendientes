@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aranceles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="aranceles.xsd">
+    <pais>
+        <nombre>China</nombre>
+        <arancel>
+            <tipo>Porcentaje</tipo>
+            <valor>25</valor>
+        </arancel>
+    </pais>
+    <pais>
+        <nombre>Unión Europea</nombre>
+        <arancel>
+            <tipo>Porcentaje</tipo>
+            <valor>10</valor>
+        </arancel>
+    </pais>
+    <pais>
+        <nombre>Canadá</nombre>
+        <arancel>
+            <tipo>Porcentaje</tipo>
+            <valor>15</valor>
+        </arancel>
+    </pais>
+    <pais>
+        <nombre>México</nombre>
+        <arancel>
+            <tipo>Cantidad</tipo>
+            <valor>300</valor>
+        </arancel>
+    </pais>
+</aranceles>

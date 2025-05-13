@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<muebles>
+    <mueble>
+      <tipo>mesa</tipo>
+      <patas>cuatro</patas>
+      <ubicacion>salón</ubicacion>
+    </mueble>
+    <mueble>
+      <tipo>mesa</tipo>
+      <patas>cuatro</patas>
+      <ubicacion>salón</ubicacion>
+    </mueble>
+</muebles>

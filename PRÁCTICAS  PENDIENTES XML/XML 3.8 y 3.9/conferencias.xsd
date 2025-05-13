@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="centroConferencias">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="salas" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sala" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="id" type="xs:string"/>
+                    <xs:element name="nombre" type="xs:string"/>
+                    <xs:element name="capacidad" type="xs:int"/>
+                    <xs:element name="ubicacion" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="reservas" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="reserva" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="id" type="xs:string"/>
+                    <xs:element name="salaId" type="xs:string"/>
+                    <xs:element name="cliente" type="xs:string"/>
+                    <xs:element name="fechaInicio" type="xs:date"/>
+                    <xs:element name="fechaFin" type="xs:date"/>
+                    <xs:element name="asistentes">
+                      <xs:simpleType>
+                        <xs:restriction base="xs:int">
+                          <xs:minInclusive value="1"/>
+                          <xs:maxInclusive value="200"/>
+                        </xs:restriction>
+                      </xs:simpleType>
+                    </xs:element>
+                    <xs:element name="proyector" type="xs:boolean"/>
+                    <xs:element name="comentarios" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obras>
+  <obra>
+    <titulo>La Gioconda</titulo>
+    <autor>Leonardo Da Vinci</autor>
+    <museo>Louvre</museo>
+  </obra>
+  <obra>
+    <titulo>La Noche Estrellada</titulo>
+    <autor>Vincent van Gogh</autor>
+    <museo>Museo arte Nueva York</museo>
+  </obra>
+</obras>

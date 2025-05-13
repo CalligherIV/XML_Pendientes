@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coches>
+    <coche>
+      <matricula>1234ABC</matricula>
+      <marca>Ford</marca>
+      <modelo>Focus</modelo>
+      <potencia>120</potencia>
+      <kilometros>45000</kilometros>
+    </coche>
+    <coche>
+      <matricula>5678XYZ</matricula>
+      <marca>Renault</marca>
+      <modelo>Clio</modelo>
+      <potencia>90</potencia>
+      <kilometros>30000</kilometros>
+    </coche>
+  </coches>

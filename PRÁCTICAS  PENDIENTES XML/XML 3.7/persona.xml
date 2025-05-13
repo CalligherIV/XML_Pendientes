@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="persona.xsd">
+  <telefono>+34 654 789 321</telefono>
+  <nombre>Carlos Méndez</nombre>
+  <edad>35</edad>
+  <email>carlos.mendez@example.com</email>
+</persona>

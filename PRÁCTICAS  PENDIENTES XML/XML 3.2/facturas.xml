@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+    <factura pagada="si">
+      <num_factura>1156</num_factura>
+      <nif>18456789</nif>
+      <fecha>12/02/2021</fecha>
+      <coste>126</coste>
+    </factura>
+    <factura pagada="si">
+      <num_factura>1157</num_factura>
+      <nif>18456123</nif>
+      <fecha>15/02/2021</fecha>
+      <coste>200</coste>
+    </factura>
+  </facturas>

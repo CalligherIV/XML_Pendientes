@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes>
+    <estudiante>
+      <id_estudiante>111</id_estudiante>
+      <nombre>Juan</nombre>
+      <apellido1>Perales</apellido1>
+    </estudiante>
+</estudiantes>

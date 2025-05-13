@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oferta>
+  <coche>
+    <marca>Ford</marca>
+    <modelo>Kuga</modelo>
+    <motor>1.5 EcoBoost</motor>
+    <matricula>4578JHT</matricula>
+    <kilometros>48000</kilometros>
+    <precio_original>25000</precio_original>
+    <precio_oferta>21500</precio_oferta>
+    <extra>Garantía extendida 2 años</extra>
+    <foto>kuga.png</foto>
+  </coche>
+
+  <coche>
+    <marca>Volkswagen</marca>
+    <modelo>Golf</modelo>
+    <motor>2.0 TDI</motor>
+    <matricula>8921LMN</matricula>
+    <kilometros>32000</kilometros>
+    <precio_original>28000</precio_original>
+    <precio_oferta>23990</precio_oferta>
+    <extra>Revisión gratuita por 1 año</extra>
+    <foto>golf.png</foto>
+  </coche>
+
+  <coche>
+    <marca>Renault</marca>
+    <modelo>Captur</modelo>
+    <motor>1.3 TCe</motor>
+    <matricula>1234XYZ</matricula>
+    <kilometros>15000</kilometros>
+    <precio_original>22000</precio_original>
+    <precio_oferta>18990</precio_oferta>
+    <extra>Kit manos libres y sensores</extra>
+    <foto>captur.png</foto>
+  </coche>
+</oferta>
